@@ -7,10 +7,7 @@ export default function RegisterSection() {
   return (
     <section
       className="bg-cover bg-center min-h-screen flex items-center justify-center -mt-[80px]"
-      style={{
-        backgroundImage:
-          "url('https://img.freepik.com/free-photo/blurred-restaurant-with-many-lights_1203-627.jpg')",
-      }}
+      
     >
       <div className="bg-white p-8 rounded-lg shadow-lg w-full max-w-md mt-40 mb-10">
         <h1 className="text-3xl font-bold text-center mb-8">Register</h1>

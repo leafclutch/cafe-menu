@@ -51,7 +51,7 @@ const Contact = () => {
                 Our Address
               </h3>
               <p className="text-gray-600">Golpark-3</p>
-              <p className="text-gray-600">Butwal, Nepal</p>
+              <p className="text-gray-600">Bhairahawa, Rupandehi, Nepa</p>
             </div>
           </li>
 
@@ -81,7 +81,7 @@ const Contact = () => {
               </h3>
               <p className="text-gray-600">Phone: +97771537167</p>
               <p className="text-gray-600">
-                Mail: contact@nctbutwal.com.np
+                Mail: info@leafclutch.dev
               </p>
             </div>
           </li>
@@ -143,12 +143,14 @@ const Contact = () => {
           </div>
 
           <div className="text-center">
-            <button
-              type="submit"
-              className="w-full bg-blue-800 text-white px-6 py-3 font-xl rounded-md sm:mb-0"
-            >
-              Send Message
-            </button>
+           <a
+            href="mailto:info@leafclutch.dev"
+            className="block w-full bg-blue-800 text-white px-6 py-3 font-xl rounded-md text-center"
+          >
+           Send Message
+           </a>
+
+
           </div>
         </form>
       </div>
