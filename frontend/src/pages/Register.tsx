@@ -105,7 +105,7 @@ export default function RegisterSection() {
           {/* Register Button */}
           <button
             type="submit"
-            className="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 rounded font-semibold"
+            className="w-full   py-2 rounded font-semibold bg-[#FFF9AF] text-[#1C6EA4]"
           >
             Register
           </button>

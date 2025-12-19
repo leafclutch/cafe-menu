@@ -61,7 +61,7 @@
         <span className="text-sm text-muted-foreground">Event: Not Available</span>
       </li>
     </ul>
-    <a className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-lg text-sm font-semibold transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border-2 border-primary bg-transparent text-primary hover:bg-primary hover:text-primary-foreground h-11 px-6 py-2 w-full" href="http://localhost:8080/login" target="_blank" rel="noopener noreferrer">
+    <a className="inline-flex bg-[#FFF9AF] text-[#1C6EA4] items-center justify-center gap-2 whitespace-nowrap rounded-lg text-sm font-semibold transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border-2 border-primary bg-transparent text-primary hover:bg-primary hover:text-primary-foreground h-11 px-6 py-2 w-full" href="http://localhost:8080/login" target="_blank" rel="noopener noreferrer">
       Login
     </a>
   </div>
@@ -130,7 +130,7 @@
         <span className="text-sm text-muted-foreground">Security audit</span>
       </li>
     </ul>
-    <a className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-lg text-sm font-bold transition-all duration-300 bg-highlight text-primary shadow-lg hover:shadow-xl hover:-translate-y-1 border-2 border-highlight/50 h-11 px-6 py-2 w-full" href="http://localhost:8080/login" target="_blank" rel="noopener noreferrer">
+    <a className="inline-flex bg-[#FFF9AF] text-[#1C6EA4] items-center justify-center gap-2 whitespace-nowrap rounded-lg text-sm font-bold transition-all duration-300 bg-highlight text-primary shadow-lg hover:shadow-xl hover:-translate-y-1 border-2 border-highlight/50 h-11 px-6 py-2 w-full" href="http://localhost:8080/login" target="_blank" rel="noopener noreferrer">
     Login
     </a>
   </div>
@@ -191,7 +191,7 @@
         <span className="text-sm text-muted-foreground">Ongoing maintenance</span>
       </li>
     </ul>
-    <a className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-lg text-sm font-semibold transition-all duration-300 border-2 border-primary bg-transparent text-primary hover:bg-primary hover:text-primary-foreground h-11 px-6 py-2 w-full" href="http://localhost:8080/login" target="_blank" rel="noopener noreferrer">
+    <a className="inline-flex bg-[#FFF9AF] text-[#1C6EA4] items-center justify-center gap-2 whitespace-nowrap rounded-lg text-sm font-semibold transition-all duration-300 border-2 border-primary bg-transparent text-primary hover:bg-primary hover:text-primary-foreground h-11 px-6 py-2 w-full" href="http://localhost:8080/login" target="_blank" rel="noopener noreferrer">
       Login
     </a>
   </div>

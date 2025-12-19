@@ -65,21 +65,21 @@ export default function Login() {
                   <input type="checkbox" id="remember" className="h-4 w-4 text-pink-500 border-gray-300 rounded focus:ring-pink-400" />
                   <label htmlFor="remember" className="text-sm text-gray-600">Remember Me</label>
                 </div>
-                <a href="#" className="text-sm text-pink-600 hover:underline">
+                <a href="#" className="text-sm text-[#1C6EA4] hover:underline">
                   Forgot Password?
                 </a>
               </div>
 
               <button
                 type="submit"
-                className="w-full bg-pink-400 text-white py-2.5 rounded-lg font-semibold hover:bg-pink-500 transition duration-200 shadow-md"
+                className="w-full bg-[#FFF9AF] text-[#1C6EA4] py-2.5 rounded-lg font-semibold transition duration-200 shadow-md"
               >
                 Login
               </button>
 
               <p className="text-center text-gray-600 text-sm">
                 Don't have an account?{" "}
-                <a href="/register" className="text-pink-600 font-semibold hover:underline">
+                <a href="/register" className="text-[#1C6EA4] font-semibold hover:underline">
                   Register Here
                 </a>
               </p>
